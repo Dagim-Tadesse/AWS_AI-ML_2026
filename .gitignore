@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Environment variables & secrets (CRITICAL for AWS)
+.env
+.env.*
+*.pem
+credentials.json
+aws_config.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.swp
+
+# ML data & large model weights
+data/
+*.csv
+*.parquet
+*.h5
+*.pt
+*.pth
+*.onnx
+models/
