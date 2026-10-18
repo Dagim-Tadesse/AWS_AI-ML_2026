@@ -1,0 +1,17 @@
+customer_id,service_type,usage_hours,monthly_spend,latency_ms
+C101,Cloud_Compute,120.5,$245.80,32.4
+C102,Cloud_Storage,45.0,$45.00,18.2
+C103,AI_Inference,,$310.50,110.6
+C104,Cloud_Compute,300.2,$590.00,
+C105,Database,80.0,$120.00,24.1
+C106,AI_Inference,-15.0,$180.20,95.0
+C107,Cloud_Storage,60.5,$60.50,19.8
+C101,Cloud_Compute,120.5,$245.80,32.4
+C108,Database,150.0,$210.00,28.7
+C109,AI_Inference,450.0,$920.40,140.2
+C110,Cloud_Compute,220.0,,42.1
+C111,Cloud_Storage,15.0,$20.00,15.5
+C112,AI_Inference,310.0,$640.00,115.0
+C113,Database,5000.0,$250.00,31.0
+C114,Cloud_Compute,95.0,$190.00,35.8
+C115,AI_Inference,180.5,$370.10,88.4

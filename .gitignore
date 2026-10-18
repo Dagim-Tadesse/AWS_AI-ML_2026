@@ -27,10 +27,12 @@ aws_config.ini
 
 # ML data & large model weights
 data/
-*.csv
 *.parquet
 *.h5
 *.pt
 *.pth
 *.onnx
 models/
+# Ignore big CSV files in root or data folders, but allow sample task CSVs
+*.csv
+!tasks/**/raw_dataset.csv
