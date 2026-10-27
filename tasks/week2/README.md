@@ -1,6 +1,6 @@
 # Week 2: Mini Semantic Search Engine with ChromaDB & NumPy
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Dagim-Tadesse/AWS_AI-ML_2026/blob/main/tasks/week2/semantic_search.ipynb)
+**Google Colab Notebook**: [Open in Google Colab](https://colab.research.google.com/drive/1rqMoWCZAXz3LY5kxl6kkcqS-vhCCItYJ)
 
 A complete, production-grade **Mini Semantic Search Engine** built with Python, Pandas, NumPy, and ChromaDB for the AWS AI/ML Specialization (AASTU Cohort · Week 2).
 
@@ -93,7 +93,7 @@ python tasks/week2/semantic_search.py
 2. In VS Code, open [`tasks/week2/semantic_search.ipynb`](file:///c:/Users/HP/Documents/programming/AIML/aws/tasks/week2/semantic_search.ipynb), select your `.venv` Python kernel in the top-right corner, and run all cells (`Ctrl + Shift + Enter`).
 
 ### Option C: Run in Google Colab (One-Click)
-1. Click the **Open In Colab** badge above or open [Google Colab](https://colab.research.google.com).
+1. Open the [Google Colab Notebook](https://colab.research.google.com/drive/1rqMoWCZAXz3LY5kxl6kkcqS-vhCCItYJ).
 2. The notebook includes a self-contained installation cell (`!pip install chromadb pandas numpy`) and embedded fallback data, allowing it to run instantly without manual file uploads.
 3. Click **Runtime** -> **Run all** (`Ctrl + F9`).
 
@@ -176,7 +176,7 @@ The pipeline utilizes NumPy for mathematical and statistical analysis of chunk d
 | **Cleans with functions** | 10 | 5 named functions: missing values, deduplication, text normalization, type conversion, outlier filtering |
 | **Processes with NumPy** | 10 | Uses `np.mean`, `np.median`, `np.std`, `np.percentile`, `np.where`, `np.dot`, `np.linalg.norm` |
 | **Notebook (.ipynb) that runs** | 8 | `semantic_search.ipynb` committed with saved execution outputs and 0 error outputs |
-| **Colab-ready** | 2 | Colab badge link present; self-contained installation and fallback data |
+| **Colab-ready** | 2 | Direct Google Colab link provided (`https://colab.research.google.com/drive/1rqMoWCZAXz3LY5kxl6kkcqS-vhCCItYJ`); self-contained setup |
 | **requirements.txt** | 4 | Located in `tasks/week2/requirements.txt` listing `numpy`, `pandas`, `chromadb` |
 | **venv set up** | 3 | Step-by-step venv setup documented in README; ignored in `.gitignore` |
 | **README with run steps** | 2 | Complete run steps documented with real example queries and top 3 results |
