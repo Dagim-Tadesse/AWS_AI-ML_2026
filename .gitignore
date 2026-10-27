@@ -35,4 +35,5 @@ data/
 models/
 # Ignore big CSV files in root or data folders, but allow sample task CSVs
 *.csv
-!tasks/**/raw_dataset.csv
+!tasks/**/*.csv
+!tasks/**/*.json

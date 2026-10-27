@@ -4,4 +4,5 @@ Repository tracking weekly tasks, hands-on labs, model training notebooks, and c
 
 ## Directory Structure
 - `tasks/`: Weekly assignments, code solutions, and hands-on exercises.
-  - `Week1/`: Week 1 coursework and tasks.
+  - `Week1/`: Week 1 Small Python Data-Processing App.
+  - `week2/`: Week 2 Mini Semantic Search Engine with ChromaDB & NumPy.

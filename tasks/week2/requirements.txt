@@ -1,0 +1,6 @@
+# Week 2 Requirements: Mini Semantic Search & NumPy Processing
+numpy>=1.26.0
+pandas>=2.0.0
+chromadb>=0.5.0
+sentence-transformers>=2.2.0
+ipykernel>=6.29.0
